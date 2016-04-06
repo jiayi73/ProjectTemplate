@@ -13,7 +13,7 @@ def supportVersion = "23.2.1"
 def JUnitVersion = '4.12'
 
 project.ext {
-    applicationId = "com.xxx"
+    applicationId = "com.jiayidi.applicationname"
     buildToolsVersion = "23.0.3"
     compileSdkVersion = 23
     minSdkVersion = 14
